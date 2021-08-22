@@ -1,0 +1,3 @@
+# thirdSample
+
+Learning gitHub
